@@ -1,6 +1,6 @@
 # Mostafa Hekal
 
-**`Developer/Creator`**
+**`Cybersecurity Student / Ethical Hacker`**
 
 I'm an Ethical Hacking & Cybersecurity student at Coventry University with a passion for digital security, problem-solving, and building cool projects. Outside of my studies, I'm diving into game development, penetration testing, and malware analysis to expand my skills and explore cutting-edge tech.
 
