@@ -2,11 +2,11 @@
 
 **`Developer/Creator`**
 
-I'm a Computer Science student at TMU with a passion for coding, problem-solving, and building cool projects. Outside of my studies, I'm diving into game development and LLMs (Large Language Models) to expand my skills and explore cutting-edge tech.
+I'm an Ethical Hacking & Cybersecurity student at Coventry University with a passion for digital security, problem-solving, and building cool projects. Outside of my studies, I'm diving into game development, penetration testing, and malware analysis to expand my skills and explore cutting-edge tech.
 
-🚀 Always learning, experimenting, and working on new ideas!
+🛡️ Always learning, experimenting, and working on new ideas!
 
-🔧 Tech Interests: Full-stack development, game engines, AI/ML, and low-level programming.
+🔧 Tech Interests: Network security, digital forensics, secure software development, and game engines.
 
 💡 Check out my projects and feel free to connect!
 
